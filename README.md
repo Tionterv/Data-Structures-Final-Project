@@ -1,6 +1,9 @@
 # Data-Structures-Final-Project
 
 
+To run program use PP5Test.cpp
+
+
 # Summary
 One of the main reasons to use Dijkstra’s algorithm is the number of important and
 useful applications available for generating (exact) optimal solutions to a large class of
